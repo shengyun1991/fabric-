@@ -211,7 +211,7 @@ Profiles:
 
 - zookeeper 的运作流程
 
-  > 在配置之前, 让我们先了解一下 `Zookeeper` 的基本运转流程: 
+  >  `Zookeeper` 的基本运转流程: 
   >
   > - <font color="red">选举Leader</font>
   >   - 选举Leader过程中算法有很多，但要达到的选举标准是一致的
@@ -227,7 +227,7 @@ Profiles:
 
 - 配置文件模板
 
-  > 下面我们来看一个示例配置文件, 研究下zookeeper如何配置:
+  > zookeeper如何配置:
 
   ```yaml
   version: '2'
